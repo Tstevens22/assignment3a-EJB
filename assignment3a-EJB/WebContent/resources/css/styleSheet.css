@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+.order-table {
+	border: 1px black solid;
+}
+
+.order-table-odd {
+	background: #3498db
+}
+
+.order-table-header {
+	font-weight: bold;
+}
+
+.order-table-even { #ecf0f1
+	
+}
+
+.h1, .h5 {
+	text-align: center;
+}
